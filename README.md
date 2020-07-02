@@ -48,4 +48,3 @@ where `instance` is an instance of KonachanSearch there are 2 callable functions
     Parameters `get()`takes:
     1. `pages`, an integer amounting to the number of pages to search through for listings. Defaults to `1`.
 
-**more coming soon**
